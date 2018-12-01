@@ -4,6 +4,15 @@
 
 This is a set of notes used for teaching Python to students that have never used Python, or programmed in any language. In a usual semester, it takes approximately 4 weeks (meeting twice a week for an hour) to go through the material, for a freshmen undergraduate class. 
 
+## Videos
+
+* [Videos for the class](https://www.youtube.com/playlist?list=PLqAPn_b_yx0TBDqe5-AMSed6sYzMj9qkN)
+
+## Exercises for `nbgrader` (for Educators)
+
+* If you would like to get access to the autograded assignments that we have developed, please contact me at `panos@stern.nyu.edu`.
+
+
 ## Recommended Books
 
 * [Python for Everybody: Exploring Data In Python 3](https://www.py4e.com/book): This is a textbook for students that are learning Python as their first programming language, with the objective of using programming to handle and analyze data. 
