@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master){:target="_blank"}
 
 # Introduction to Python for Data Science
 
