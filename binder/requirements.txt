@@ -1,3 +1,5 @@
 jupyter_contrib_nbextensions
 jellyfish
 ngram
+numpy
+matplotlib
