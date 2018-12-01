@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)
+
 # Introduction to Python for Data Science
 
 This is a set of notes used for teaching Python to students that have never used Python, or programmed in any language. In a usual semester, it takes approximately 4 weeks (meeting twice a week for an hour) to go through the material, for a freshmen undergraduate class. 
