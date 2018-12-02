@@ -1,5 +1,10 @@
+# For enabling the Solution extension
 jupyter_contrib_nbextensions
+
+# We use these packages for the in-class exercise
 jellyfish
 ngram
+
+# Used in notebook Z 
 numpy
 matplotlib

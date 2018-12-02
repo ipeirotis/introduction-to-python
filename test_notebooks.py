@@ -1,14 +1,13 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
+#!/usr/bin/python3
 
 import os
 import subprocess
 import tempfile
-
 import nbformat
+
+from os import listdir
+from os.path import isfile, join, isdir
+
 
 def notebook_run(path):
     """Execute a notebook via nbconvert and collect output.
@@ -17,7 +16,7 @@ def notebook_run(path):
 
     with tempfile.NamedTemporaryFile(suffix=".ipynb") as fout:
         args = ["jupyter", "nbconvert", "--to", "notebook", "--execute",
-          "--ExecutePreprocessor.timeout=60",
+          "--ExecutePreprocessor.timeout=600",
           "--output", fout.name, path]
         subprocess.check_call(args)
 
@@ -30,12 +29,6 @@ def notebook_run(path):
 
     return nb, errors
 
-
-# In[9]:
-
-
-from os import listdir
-from os.path import isfile, join, isdir
 
 def test_notebooks(path):
     
@@ -51,13 +44,9 @@ def test_notebooks(path):
         print(directory)
 
 
-# In[12]:
-
 
 test_notebooks('.')
 
-
-# In[ ]:
 
 
 
