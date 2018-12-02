@@ -1,0 +1,7 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable code_prettify/code_prettify
+jupyter nbextension enable codefolding/main
+jupyter nbextension enable codefolding/edit
+jupyter nbextension enable exercise2/main
+jupyter nbextension enable spellchecker/main

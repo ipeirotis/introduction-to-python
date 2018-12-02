@@ -8,3 +8,9 @@ ngram
 # Used in notebook Z 
 numpy
 matplotlib
+
+# Used for code-prettify extension
+yapf
+
+# Not used by code-prettify
+# autopep8
