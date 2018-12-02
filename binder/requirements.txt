@@ -12,5 +12,5 @@ matplotlib
 # Used for code-prettify extension
 yapf
 
-# Not used by code-prettify
+# If we use the jupyter-autopep8 extension instead of code-prettify
 # autopep8
