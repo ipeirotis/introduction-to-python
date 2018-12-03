@@ -46,7 +46,7 @@ def test_notebooks(path):
 
 
 def main():
-    directory = sys.argv[0]
+    directory = sys.argv[1]
     test_notebooks(directory)
 
 
