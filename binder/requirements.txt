@@ -14,3 +14,6 @@ yapf
 
 # If we use the jupyter-autopep8 extension instead of code-prettify
 # autopep8
+
+# To remove the output from the notebooks
+nbstripout

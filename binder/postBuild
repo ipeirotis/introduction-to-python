@@ -17,3 +17,4 @@ jupyter nbextension enable spellchecker/main
 git config --global user.email "ipeirotis@gmail.com"
 git config --global user.name "Panos Ipeirotis"
 
+nbstripout --install --attributes .gitattributes
