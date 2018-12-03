@@ -1,7 +1,11 @@
 language: python
 python:
   - "3.6"
+
+
+# nbformat is needed to run the tests
 install:
   - pip install -r binder/requirements.txt
+  - pip install nbformat
 script:
   - binder/test_notebooks.py notes
