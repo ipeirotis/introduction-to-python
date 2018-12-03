@@ -5,7 +5,7 @@ python:
 
 # nbformat is needed to run the tests
 install:
-  - pip install -r binder/requirements.txt
-  - pip install nbformat
+  - pip3 install -r binder/requirements.txt
+  - pip3 install nbformat
 script:
   - binder/test_notebooks.py notes
