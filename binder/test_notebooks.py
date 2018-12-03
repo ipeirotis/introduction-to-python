@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+import sys
 import os
 import subprocess
 import tempfile
@@ -44,10 +45,10 @@ def test_notebooks(path):
         print(directory)
 
 
-
-test_notebooks('.')
-
-
-
+def main():
+    directory = sys.argv[0]
+    test_notebooks(directory)
 
 
+if __name__ == "__main__":
+    main()

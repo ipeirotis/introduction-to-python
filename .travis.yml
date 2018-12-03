@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.6"
+install:
+  - pip install -r binder/requirements.txt
+script:
+  - binder/test_notebooks.py notes
