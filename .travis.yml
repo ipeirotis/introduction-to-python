@@ -6,12 +6,12 @@ python:
 before_install:
   - sudo apt-get update
   - sudo apt-get install -y python3-pip
-  - sudo pip3 install -U jupyter
   - sudo pip3 install -U pip3
-  - sudo pip3 install -U nbformat
 
 
 install:
+  - pip3 install -U jupyter
+  - pip3 install -U nbformat
   - pip3 install -r binder/requirements.txt
 script:
   - binder/test_notebooks.py notes
