@@ -14,4 +14,4 @@ install:
   - pip3 install -U nbformat
   - pip3 install -r binder/requirements.txt
 script:
-  - binder/test_notebooks.py notes
+  - python3 binder/test_notebooks.py notes
