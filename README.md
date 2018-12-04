@@ -36,7 +36,7 @@ This is a set of notes used for teaching Python to students that have never used
 
 ## Additional Pointers
 
-* [Official Python 2 Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [Official Python 3 Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Python Tutor](http://www.pythontutor.com/)
 * [Useful iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): A wide variety of useful tutorials in iPython Notebooks for a wide variety of topics
 * [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
