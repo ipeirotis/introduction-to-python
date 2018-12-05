@@ -55,4 +55,12 @@ This is a set of notes used for teaching Python to students that have never used
 * http://www.openbookproject.net/pybiblio/practice/wilson/
 * https://github.com/donnemartin/interactive-coding-challenges
 
+## Credits
 
+* I ~~have stolen~~ relied heavily on the "Python for Everybody" and the "How To Think Like a Computer Scientist" books to develop the structure and the material for the notes. 
+* The initial version of the notebooks came from Josh Attenberg, from his course "Practical Data Science" that was taught at NYU/Stern.
+* Katherine Hoffmann contributed to the development of the current notebooks.
+
+## License
+
+* Outside NYU, the material is licensed under the Creative Commons Attribution-ShareAlike 4.0 license. If you are working within NYU, please contact me if you plan on using the material.
