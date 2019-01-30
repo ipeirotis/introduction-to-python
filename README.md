@@ -6,6 +6,13 @@
 
 This is a set of notes used for teaching Python to students that have never used Python, or programmed in any language. In a usual semester, it takes approximately 4 weeks (meeting twice a week for an hour) to go through the material, for a freshmen undergraduate class. 
 
+## Notes
+
+* The notes are in the form of iPython notebooks and are stored under the `/notes` folder.
+* If you are an NYU student, you can [use the NYU JupyterHub server] to access the Jupyter server and the notes (under `/notes/pi1/introduction-to-python`).
+* If you do not have access to your own Jupyter server, you can interact with the notes by clicking the "[Launch Binder](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)" button. 
+
+
 ## Videos
 
 * [Videos for the class](https://www.youtube.com/playlist?list=PLqAPn_b_yx0TBDqe5-AMSed6sYzMj9qkN)
