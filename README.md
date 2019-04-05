@@ -6,6 +6,13 @@
 
 This is a set of notes used for teaching Python to students that have never used Python, or programmed in any language. In a usual semester, it takes approximately 4 weeks (meeting twice a week for an hour) to go through the material, for a freshmen undergraduate class. 
 
+## Notes
+
+* The notes are in the form of iPython notebooks and are stored under the `/notes` folder.
+* If you are an NYU student, you can [use the NYU JupyterHub server](https://jupyterhub.stern.nyu.edu/) to access the Jupyter server and the notes (under `/notes/pi1/introduction-to-python`).
+* If you do not have access to your own Jupyter server, you can interact with the notes by clicking the "[Launch Binder](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)" button. 
+
+
 ## Videos
 
 * [Videos for the class](https://www.youtube.com/playlist?list=PLqAPn_b_yx0TBDqe5-AMSed6sYzMj9qkN)
@@ -41,6 +48,7 @@ This is a set of notes used for teaching Python to students that have never used
 * [Useful iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): A wide variety of useful tutorials in iPython Notebooks for a wide variety of topics
 * [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
 * [Quantitative Economics](http://quant-econ.net/py/): An introduction to scientific computing using Python, by Thomas J. Sargent and John Stachurski
+* [Pytudes](https://github.com/norvig/pytudes) by Peter Norvig. A set of problems, in a wide variety of fields, solved with Python. Clear and structured problem descriptions, and _beautiful_ code for solving them. You will learn something everytime you read one of the provided notebooks.
 
 ## Python Exercises
 
