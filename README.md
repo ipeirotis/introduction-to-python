@@ -71,4 +71,4 @@ This is a set of notes used for teaching Python to students that have never used
 
 ## License
 
-* Outside NYU, the material is licensed under the Creative Commons Attribution-ShareAlike 4.0 license. If you are working within NYU, please contact me if you plan on using the material.
+* Outside NYU, the material is licensed under the Creative Commons Attribution-ShareAlike 4.0 license. If you are working within NYU, note that any usage of the material is strictly prohibited.
