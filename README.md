@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ipeirotis/introduction-to-python/master/notes/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)
 [![Build Status](https://travis-ci.com/ipeirotis/introduction-to-python.svg?branch=master)](https://travis-ci.org/ipeirotis/introduction-to-python)
 
