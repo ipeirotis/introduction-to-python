@@ -38,7 +38,8 @@ def test_notebooks(path):
     for notebook in sorted(notebooks):
         print(notebook)
         _, errors = notebook_run(join(path, notebook))
-        assert errors == []
+        if errors != []:
+            raise AssertionError
     
     for directory in sorted(directories):
         print(directory)
