@@ -38,7 +38,7 @@ def test_notebooks(path):
     
     for notebook in sorted(notebooks):
         print(notebook)
-        nb, errors = notebook_run(join(path, notebook))
+        _, errors = notebook_run(join(path, notebook))
         assert errors == []
     
     for directory in sorted(directories):
