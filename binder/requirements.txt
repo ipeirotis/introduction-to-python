@@ -11,9 +11,7 @@ matplotlib
 
 # Used for code-prettify extension
 yapf
-
-# If we use the jupyter-autopep8 extension instead of code-prettify
-# autopep8
+black
 
 # To remove the output from the notebooks
 nbstripout
