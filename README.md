@@ -9,8 +9,8 @@ This is a set of notes used for teaching Python to students that have never used
 ## Notes
 
 * The notes are in the form of iPython notebooks and are stored under the `/notes` folder.
-* If you are an NYU student, you can [use the NYU JupyterHub server](https://jupyterhub.stern.nyu.edu/) to access the Jupyter server and the notes (under `/notes/pi1/introduction-to-python`).
-* If you do not have access to your own Jupyter server, you can interact with the notes by clicking the "[Launch Binder](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)" button. 
+* You can [open the notes in Google Colab](https://colab.research.google.com/github/ipeirotis/introduction-to-python/blob/master/). With Google Colab, you can save your work in your Google Drive. 
+* If you do not want to use Google Colab, you can [launch the notes in Binder](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master), which is a temporary Jupyter server launched on-demand. Note that the Binder server will shutdown after a period of idleness. If you want to save your work, and you should save the notes locally to your computer.
 
 
 ## Videos
