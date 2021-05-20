@@ -47,7 +47,7 @@ This is a set of notes used for teaching Python to students that have never used
 * [Python Tutor](http://www.pythontutor.com/)
 * [Useful iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): A wide variety of useful tutorials in iPython Notebooks for a wide variety of topics
 * [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
-* [Quantitative Economics](http://quant-econ.net/py/): An introduction to scientific computing using Python, by Thomas J. Sargent and John Stachurski
+* [Quantitative Economics](https://python.quantecon.org/intro.html): An introduction to scientific computing using Python, by Thomas J. Sargent and John Stachurski
 * [Pytudes](https://github.com/norvig/pytudes) by Peter Norvig. A set of problems, in a wide variety of fields, solved with Python. Clear and structured problem descriptions, and _beautiful_ code for solving them. You will learn something everytime you read one of the provided notebooks.
 
 ## Python Exercises
