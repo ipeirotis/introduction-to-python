@@ -30,7 +30,7 @@ This is a set of notes used for teaching Python to students that have never used
 
 ## Additional Books for Learning Python
 
-* [How To Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c): An interactive guide to programming and Python. The book "Python for Everybody" (listed above) is partially based on this book.
+* [How To Think Like a Computer Scientist](https://runestone.academy/ns/books/published/thinkcspy/index.html): An interactive guide to programming and Python. The book "Python for Everybody" (listed above) is partially based on this book.
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/): An introduction to programming and Python. It targets complete beginners. It used a drill-based approach for teaching, which can be tedious at times. Nevertheless, it is considered one of the standard textbooks for learning Python.
 
 ## Online Classes
