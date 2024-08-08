@@ -35,6 +35,7 @@ This is a set of notes used for teaching Python to students that have never used
 
 ## Online Classes
 
+* [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 * The following Coursera courses [Getting Started with Python](https://www.coursera.org/learn/python), [Python Data Structures](https://www.coursera.org/learn/python-data), [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data), [Using Databases with Python](https://www.coursera.org/learn/python-databases), [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-capstone) are well-alinged with the objectives of our class. 
 * [Code Academy, Python class](https://www.codecademy.com/learn/python): This is a useful interactive tutorial for beginners, who are trying to understand programming in general, and Python in particular
 * [Google’s Python class](https://developers.google.com/edu/python/)
